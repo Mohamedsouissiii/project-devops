@@ -1,5 +1,5 @@
 xpipeline {
-    agent { any }
+    agent  any 
     stages {
         stage('build') {
             steps {
